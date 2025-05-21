@@ -8,6 +8,6 @@ soma = 0
 x = 1
 while x <= num:
     soma += x
-x += 1
+    x += 1
 
 print ("A soma de 1 até",num, "é:", soma)
